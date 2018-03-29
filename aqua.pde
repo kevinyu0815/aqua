@@ -19,7 +19,7 @@ Aquatics[] aquatics = new Aquatics[10];
 int aquaCounter = 0;
 
 void setup() {
-  size(800, 600) ;
+  size(700, 525) ;
 
   // loading bg, control button
   bgImg = loadImage("img/bgImage.png") ;
